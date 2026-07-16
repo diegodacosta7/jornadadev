@@ -4,8 +4,8 @@ FUNCTION Main()
     LOCAL cNome := "Diego Costa" 
     LOCAL cCidade := "São Paulo" 
     LOCAL cCurso := "Harbour/ADVPL" 
-    LOCAL cData := DToC(Date())
-    LOCAL cHora := Time()
+    LOCAL cData := DToC(Date(18/07/2006))
+    LOCAL cHora := Time(10:00)
 
     
     hb_cdpSelect("PT850")
