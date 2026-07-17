@@ -1,4 +1,4 @@
 FUNCTION Main()
-    QOut("Ol  mundo!")
-    QOut("Bem vindo(a) … ornada DEV START!")
+    QOut("Ola mundo!")
+    QOut("Bem vindo(a) Jornada DEV START!")
 RETURN NIL

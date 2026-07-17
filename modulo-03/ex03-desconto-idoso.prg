@@ -5,8 +5,8 @@ FUNCTION Main()
     LOCAL dNasc
     LOCAL nPreco, nIdade, nDesconto, nTotal
 
-    ACCEPT "Matheus: " TO cNome
-    ACCEPT "Data de nascimento (09/09/1900): " TO cEntrada
+    ACCEPT "Diego: " TO cNome
+    ACCEPT "Data de nascimento (18/07/2006): " TO cEntrada
     dNasc := CToD(cEntrada)
     ACCEPT "Preço do produto: " TO cEntrada
     nPreco := Val(cEntrada)
