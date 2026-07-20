@@ -3,7 +3,7 @@ FUNCTION Main()
     
     LOCAL cNome := "Diego Costa" 
     LOCAL cCidade := "São Paulo" 
-    LOCAL cCurso := "Harbour/ADVPL" 
+    LOCAL cCurso := "ADVPL" 
     LOCAL cData := DToC(Date())
     LOCAL cHora := Time()
 
